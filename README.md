@@ -14,9 +14,17 @@ Lo que hace es funcionar como un contador de segundos y a la vez si se cambia de
 ### SCREENSHOOTS
 <br /> 
 <p align="center">
- <img height= "300" width="500" alt="not found" src="./main/src/assets/countdown1.png" />  
+ <img height= "350" width="480" alt="not found" src="./main/src/assets/countdown1.png" />  
 </p>
 
 <p align="center">
- <img height= "300" width="500" alt="not found" src="./main/src/assets/countdown2.png" />  
+ <img height= "350" width="450" alt="not found" src="./main/src/assets/countdown2.png" />  
+</p>
+
+<p align="center">
+ <img height= "350" width="480" alt="not found" src="./main/src/assets/countdown3.png" />  
+</p>
+
+<p align="center">
+ <img height= "380" width="450" alt="not found" src="./main/src/assets/countdown4.png" />  
 </p>
