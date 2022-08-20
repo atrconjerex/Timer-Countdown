@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Timer-Countdown/static/css/main.fc4775e4.chunk.css",
+    "main.js": "/Timer-Countdown/static/js/main.fc6c3094.chunk.js",
+    "main.js.map": "/Timer-Countdown/static/js/main.fc6c3094.chunk.js.map",
+    "runtime-main.js": "/Timer-Countdown/static/js/runtime-main.46601f91.js",
+    "runtime-main.js.map": "/Timer-Countdown/static/js/runtime-main.46601f91.js.map",
+    "static/js/2.a883fc7e.chunk.js": "/Timer-Countdown/static/js/2.a883fc7e.chunk.js",
+    "static/js/2.a883fc7e.chunk.js.map": "/Timer-Countdown/static/js/2.a883fc7e.chunk.js.map",
+    "index.html": "/Timer-Countdown/index.html",
+    "static/css/main.fc4775e4.chunk.css.map": "/Timer-Countdown/static/css/main.fc4775e4.chunk.css.map",
+    "static/js/2.a883fc7e.chunk.js.LICENSE.txt": "/Timer-Countdown/static/js/2.a883fc7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46601f91.js",
+    "static/js/2.a883fc7e.chunk.js",
+    "static/css/main.fc4775e4.chunk.css",
+    "static/js/main.fc6c3094.chunk.js"
+  ]
+}
