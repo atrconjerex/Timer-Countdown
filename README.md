@@ -28,3 +28,13 @@ Lo que hace es funcionar como un contador de segundos y a la vez si se cambia de
 <p align="center">
  <img height= "380" width="450" alt="not found" src="./main/src/assets/countdown4.png" />  
 </p>
+
+### INSTALACIÓN LOCAL
+
+1. Cloná el repo
+
+2. Párate sobre la rama principal (main)
+
+3. Y sobre main, abri terminal, y escribí npm i
+
+4. Luego npm start y listo! Ya tendrás la página corriendo localmente.
